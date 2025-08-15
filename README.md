@@ -1,4 +1,4 @@
-# Apartments Assignment - Machine Learning with Scikit-learn
+# Apartment Price Prediction - Machine Learning with Scikit-learn
 
 ## 📑 Content Index
 
