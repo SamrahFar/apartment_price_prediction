@@ -1,4 +1,4 @@
-# Apartment Price Prediction Project: Extended Report
+# Apartment Price Prediction Project:
 
 ## 1. Introduction
 
